@@ -3,5 +3,6 @@
 
 `npm install`
 `cd client`
-`npm install' front-end dependecies
+`cd ..`
+`npm install' 
 `npm run dev`
