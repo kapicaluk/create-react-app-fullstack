@@ -4,5 +4,5 @@
 `npm install`
 `cd client`
 `cd ..`
-`npm install' 
+`npm install` 
 `npm run dev`
